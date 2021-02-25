@@ -1,0 +1,139 @@
+*{
+    box-sizing: border-box;
+  }
+
+  @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+  
+body{
+    margin: auto;
+    width: 960px;
+      
+}
+
+#logo {
+    float: left;
+    margin: 10px;
+    width:50px ;
+
+}
+
+body header nav h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    padding: 10px;
+}
+
+body header nav p {
+    font-size: 10px;
+    color: gray;
+
+}
+
+#social {
+    /* float: right; */
+    margin: 1px;
+    width: 5px;
+    display: inline;
+    margin-left: 70%;
+}
+
+hr{
+    height: 10px;
+    width: 100%;
+    margin-top: 30px;
+}
+
+main h1 {
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+main p {
+    font-size: 12px;
+    color: gray;
+}
+
+main img {
+
+width: 100%;
+margin: 20px 0 0 0;
+
+}
+
+.para {
+    color: #000;
+    text-indent: 25px;
+    padding: 20px 0 10px 0;
+    font-size: 18px;
+
+}
+
+.ingrediantes{
+    background-image: url(../img/list-bg.png);
+    width: 100%;
+    
+}
+
+
+#list1 {
+    float: left;
+    width: 50%;
+}
+
+ #list2 {
+     width: 50%;
+    float: right;
+}  
+
+.vanimg {
+    margin: 30px 20px 0 0;
+    width: 80px;
+    float: left;
+
+}
+
+main div h3{
+    margin: 50px 20px 0 0 ;
+    font-size: 25px;
+}
+
+main div p {
+    font-size: 20px;
+    color: #000;
+}
+
+
+main hr {
+    margin-top: 40px;
+}
+
+button{
+
+    float: right;
+    background-color: rgb(230, 17, 17);
+    color: #ddd;
+    width: 150px;
+    height: 50px;
+    
+}
+
+footer{
+    margin-top: 90px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
